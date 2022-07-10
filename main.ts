@@ -3,7 +3,7 @@ import blog, { ga, redirects } from "https://deno.land/x/blog@0.4.0/blog.tsx";
 blog({
   title: "Nikolay Rademacher's blog",
   description: "This is my new blog.",
-  avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
+  avatar: "https://avatars.githubusercontent.com/u/47133234?v=4",
   avatarClass: "rounded-full",
   author: "An author",
   background: "#f9f9f9",
