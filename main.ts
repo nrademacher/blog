@@ -5,8 +5,7 @@ blog({
   description: "This is my new blog.",
   avatar: "https://avatars.githubusercontent.com/u/47133234?v=4",
   avatarClass: "rounded-full",
-  author: "An author",
-  background: "#f9f9f9",
+  author: "Nikolay Rademacher",
 
   // middlewares: [
 
